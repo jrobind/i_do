@@ -1,3 +1,3 @@
-#i-do
+#i_do
 
-i-do is a wedding invitation app.
+i_do is a wedding invitation app.
