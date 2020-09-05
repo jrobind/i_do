@@ -1,0 +1,23 @@
+{
+  "name": "i-do",
+  "version": "1.0.0",
+  "description": "Wedding invite application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrobind/i-do.git"
+  },
+  "keywords": [
+    "wedding",
+    "invite"
+  ],
+  "author": "James Robinson <jrobind@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrobind/i-do/issues"
+  },
+  "homepage": "https://github.com/jrobind/i-do#readme"
+}
